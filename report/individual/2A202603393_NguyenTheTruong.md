@@ -1,7 +1,7 @@
 # Báo cáo cá nhân — Day 01: Lọc tin nhắn rác bằng ML, DL, Embedding và LLM
 
 - **MSSV:** 2A202603393
-- **Họ và tên:** Nguyen The Truong
+- **Họ và tên:** Nguyễn Thế Trường
 - **SEED** (in ở ô đầu notebook): 4114
 
 ## 1. Bằng chứng
